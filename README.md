@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning PHP, Java, Python
 - ⚡ Fun fact: Kpopers And Tech enthusiast
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=radical) </br></br>
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=rikurunico&layout=compact&theme=nightowl)
 
 Find Me:
