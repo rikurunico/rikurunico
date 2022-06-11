@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently studying at the Malang State Polytechnic
-- 🌱 I’m currently learning PHP, Java, Python
+- 🌱 I'm currently learning PHP, Java, Python And Now I like to develop using Laravel 😜
 - ⚡ Fun fact: Kpopers And Tech enthusiast
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=radical) </br></br>
