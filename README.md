@@ -1,9 +1,7 @@
-![Wazir Qorni Abud's Card Name](https://cardivo.vercel.app/api?name=Wazir%20Qorni%20Abud&description=Hi,%20i%27m%20a%20Junior%20web%20developer%20%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/73944351?v=4?v=4&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=0xwazirnico_&github=rikurunico&pattern=topography&colorPattern=%23fe01ff&opacity=0.2&fontColor=%23eff4f6)
 
 ---
 
 ### Hi there 👋
-- 🔭 I'm currently studying at the Malang State Polytechnic
 - ⚡ Fun fact: Kpopers And Tech enthusiast
 <div align="center">
   <br><br>
