@@ -1,46 +1,65 @@
+<div align="center">
+
 # Hi, I'm Nicoo!
 
 ## About Me
 
-- ⚡ Fun fact: I am a Kpop fan and tech enthusiast!
+⚡ Fun fact: I am a Kpop fan and tech enthusiast!
 
 ## Skills
 
 ### Technologies I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt="PHP">
+<img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go" alt="Go">
+</p>
 
 ### Frameworks I work with:
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+<p align="center">
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel" alt="Laravel">
+</p>
 
 ### Hosting platforms I use:
 
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-
+<p align="center">
+<img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" alt="Vercel">
+<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify" alt="Netlify">
+<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku" alt="Heroku">
+</p>
 
 ## Contact Me
 
 You can reach me here:
 
-- Email: [dahyunisme@gmail.com](mailto:dahyunisme@gmail.com)
-- Instagram: [@0xwazirnico_](https://instagram.com/0xwazirnico_)
+<p align="center">
+<a href="mailto:dahyunisme@gmail.com"><img src="https://img.shields.io/badge/Email-dahyunisme%40gmail.com-red?style=flat-square&logo=gmail"></a><br>
+<a href="https://instagram.com/0xwazirnico_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%400xwazirnico__-blueviolet?style=flat-square&logo=instagram"></a>
+</p>
 
 ## My GitHub Stats
 
-![Nicoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=radical" alt="Nicoo's GitHub Stats">
+</p>
 
-![Nicoo's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rikurunico&theme=radical)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=radical" alt="Nicoo's GitHub Trophy">
+</p>
 
 ## Visitors
 
-![Visitors](https://count.getloli.com/get/@rikurunico-github-readme?theme=rule34)
+<p align="center">
+<img src="https://count.getloli.com/get/@rikurunico-github-readme?theme=rule34" alt="Visitors">
+</p>
 
 ## GitHub Profile Summary Cards
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikurunico&theme=dracula)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikurunico&theme=dracula" alt="GitHub Profile Summary Cards">
+</p>
+
+</div>
