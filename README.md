@@ -47,6 +47,10 @@ You can reach me here:
 </p>
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=radical&hide_border=false" alt="Nicoo's GitHub Stats">
+</p>
+
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=radical" alt="Nicoo's GitHub Trophy">
 </p>
 
