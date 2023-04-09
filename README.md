@@ -43,15 +43,15 @@ You can reach me here:
 ## My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=radical" alt="Nicoo's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=midnight-purple" alt="Nicoo's GitHub Stats">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=radical&hide_border=false" alt="Nicoo's GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=midnight-purple&hide_border=false" alt="Nicoo's GitHub Stats">
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=radical" alt="Nicoo's GitHub Trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=oldie&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Nicoo's GitHub Trophy">
 </p>
 
 ## Visitors
@@ -63,7 +63,7 @@ You can reach me here:
 ## GitHub Profile Summary Cards
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikurunico&theme=dracula" alt="GitHub Profile Summary Cards">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikurunico&theme=github_dark" alt="GitHub Profile Summary Cards">
 </p>
 
 </div>
