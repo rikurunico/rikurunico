@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=9F48E9&center=true&vCenter=true&random=false&width=505&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%E2%9A%A1;K-pop+Enthusiast+%F0%9F%8E%B5" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 <br>
 
 <div style="display: flex;">
