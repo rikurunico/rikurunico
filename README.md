@@ -1,69 +1,50 @@
 <div align="center">
+  
+# ようこそ! I'm Nicoo 👋
 
-# Hi, I'm Nicoo!
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=9F48E9&center=true&vCenter=true&random=false&width=505&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%E2%9A%A1;K-pop+Enthusiast+%F0%9F%8E%B5" alt="Typing SVG" />
 
-## About Me
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-⚡ Fun fact: I am a Kpop fan and tech enthusiast!
+<br>
 
-## Skills
+<div style="display: flex;">
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="Nicoo's Github Stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikurunico&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-### Technologies I work with:
+<br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt="PHP">
-<img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go" alt="Go">
-</p>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=midnight-purple&hide_border=true&stroke=9F48E9&background=0D1117&ring=9F48E9&fire=9F48E9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 
-### Frameworks I work with:
+<br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel" alt="Laravel">
-</p>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikurunico&theme=midnight_purple" />
 
-### Hosting platforms I use:
+<br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" alt="Vercel">
-<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify" alt="Netlify">
-<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku" alt="Heroku">
+  <img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## Contact Me
+<br>
 
-You can reach me here:
+<div align="center">
+  <img src="https://count.getloli.com/get/@rikurunico?theme=rule34" alt="Visitor Count" />
+</div>
 
-<p align="center">
-<a href="mailto:dahyunisme@gmail.com"><img src="https://img.shields.io/badge/Email-dahyunisme%40gmail.com-red?style=flat-square&logo=gmail"></a><br>
-<a href="https://instagram.com/0xwazirnico_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%400xwazirnico__-blueviolet?style=flat-square&logo=instagram"></a>
-</p>
+<br>
 
-## My GitHub Stats
+<details>
+<summary>Random Dev Quote ✨</summary>
+<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+</details>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&theme=midnight-purple" alt="Nicoo's GitHub Stats">
-</p>
+---
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=midnight-purple&hide_border=false" alt="Nicoo's GitHub Stats">
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rikurunico&theme=oldie&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Nicoo's GitHub Trophy">
-</p>
-
-## Visitors
-
-<p align="center">
-<img src="https://count.getloli.com/get/@rikurunico-github-readme?theme=rule34" alt="Visitors">
-</p>
-
-## GitHub Profile Summary Cards
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikurunico&theme=github_dark" alt="GitHub Profile Summary Cards">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9F48E9&height=120&section=footer" width="100%" />
 
 </div>
