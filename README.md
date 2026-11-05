@@ -6,13 +6,6 @@
 
 <br>
 
-<div style="display: flex;">
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikurunico&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="Nicoo's Github Stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikurunico&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<br>
-
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=midnight-purple&hide_border=true&stroke=9F48E9&background=0D1117&ring=9F48E9&fire=9F48E9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br>
